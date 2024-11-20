@@ -1,0 +1,1 @@
+This is a CLI representation of the Old school Runescape DPS calculator: https://tools.runescape.wiki/osrs-dps/
